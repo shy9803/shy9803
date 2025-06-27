@@ -52,4 +52,5 @@ _이태릭_
 //링크 (Link)
 Link1 : [닷홈](http://shyport.dothome.co.kr, '닷홈으로 바로가기')
 Link2 : <a href="http://shyport.dothome.co.kr" target="_blank" title="닷홈 바로가기">닷홈</a>
-
+Link3 : <shyune308@naver.com> <br>
+Link4 : <http://www.naver.com> <br>
