@@ -58,11 +58,22 @@ Link4 : <http://www.naver.com> <br>
 //8. 이모티콘, 이모지 삽입 단축키 📢 윈도우 로고키 + 세미콜론(;)
 //이모지 한꺼번에 보고 찾기 - https://gist.github.com/rxaviers/7360908
 
-//9. 이미지 삽입 !기호 사용
+//9. 이미지 삽입 - !기호 사용 또는 이미지태그 사용
 ![엑박시 보여질 이미지명](이미지 주소)(링크주소)
-![top_logo](https://harimpetfood.com/SkinImg/top_logo.gif)
+![top_logo](https://harimpetfood.com/SkinImg/top_logo.gif)<br>
 <img src="https://harimpetfood.com/SkinImg/top_logo.gif">
 
-
-
-
+//10. 테이블 삽입
+Title1|Title2
+-|-
+content1|content2
+content3|content4
+<table>
+  <thead>
+    <tr><th>셀제목</th><th>셀제목</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>셀내용</td><td>셀내용</td></tr>
+    <tr><td>셀내용</td><td>셀내용</td></tr>
+  </tbody>
+</table>
