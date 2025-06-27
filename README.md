@@ -49,8 +49,8 @@ _이태릭_
 줄을 강제로 바꾸고자 할 때는 <br>태그를 사용합니다.
 문단 태그 <p>문단 태그</p>를 사용해도 됩니다.
 
-//링크 (Link)
-Link1 : [닷홈](http://shyport.dothome.co.kr, '닷홈으로 바로가기')
-Link2 : <a href="http://shyport.dothome.co.kr" target="_blank" title="닷홈 바로가기">닷홈</a>
+//링크 (Link)  <br>
+Link1 : [닷홈](http://shyport.dothome.co.kr, '닷홈으로 바로가기')<br>
+Link2 : <a href="http://shyport.dothome.co.kr" target="_blank" title="닷홈 바로가기">닷홈</a><br>
 Link3 : <shyune308@naver.com> <br>
 Link4 : <http://www.naver.com> <br>
