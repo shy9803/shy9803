@@ -24,5 +24,5 @@
 // 인용문 ----------------------
 // 다른 사람의 말이나 대신해서 작성하는 글.
 // html태그에서는 blockquote, q
-blockQuote TimeisGold
-blockQuote 수십번 넘어져도 젊음을 무기삼아 도전하라! - 페이스북 ceo 마크 주커버그
+> blockQuote TimeisGold
+> blockQuote 수십번 넘어져도 젊음을 무기삼아 도전하라! - 페이스북 ceo 마크 주커버그
