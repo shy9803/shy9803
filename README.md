@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=FrontEnd&fontSize=30)
 
-안녕하세요, 프론트엔드 개발자 페이지입니다.
+## 프로필(Profile)
+🙍‍♂️ 안녕하세요, 한걸음씩 발전하고 있는 프론트엔드 개발자 페이지입니다.
+🖥 여러 작업을 하면서 만든 프로젝트를 소개합니다.
 ---
-## 스킬
+## 📕 스킬(Skills)
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt='html5' />
   <img src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=CSS&logoColor=white" alt='css3' />
@@ -18,12 +20,12 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt='mysql' />
   <br />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt='react' />
-  <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextjs&logoColor=white" alt='nextjs' />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt='next.js' />
   <br />
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt='github' />
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt='git' />
   <br />
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt='notion' />
 </div>
-
-## 포트폴리오
+---
+## 📒 포트폴리오(Portfolio)
